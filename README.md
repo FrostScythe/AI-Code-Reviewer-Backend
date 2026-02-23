@@ -179,3 +179,6 @@ Contributions are welcome:
 ## 📄 License
 
 Specify your license (e.g., MIT, Apache-2.0). If not provided, add a `LICENSE` file.
+
+---
+For the frontend UI application, see the AI-Code-Reviewer-Frontend repository: https://github.com/FrostScythe/AI-Code-Reviewer-Frontend
